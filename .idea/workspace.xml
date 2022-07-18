@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f6b0852-c1cb-454f-9739-ad9cba14e050" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../devtools/maven/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2C3QgXTSef8pw0iIsJvnqcGEAxn" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/wuzhixuan/Java/project/RabbitMQ/springcloudstream_demo/src/main/java/com/wuzx",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.24321705",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "e50691441fd49cccc7af0d2572f8d1a3"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springcloudstream_demo/src/main/java/com/wuzx" />
+      <recent name="$PROJECT_DIR$/springcloudstream_demo/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springboot_demo/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springboot_demo/src/main/java/com/wuzx" />
+      <recent name="$PROJECT_DIR$/basic_demo/src/main/java/com/wuzx" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SCApplication">
+    <configuration name="EmitLogDirect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuzx.rabbitmq.BasicDemo.pubsub.EmitLogDirect" />
+      <module name="RabbitMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuzx.rabbitmq.BasicDemo.pubsub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveLogsDirect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuzx.rabbitmq.BasicDemo.pubsub.ReceiveLogsDirect" />
+      <module name="RabbitMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuzx.rabbitmq.BasicDemo.pubsub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuzx.rabbitmq.direct.Sender" />
+      <module name="basic_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuzx.rabbitmq.direct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.wuzx.rabbitmq.direct.PullReceiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuzx.rabbitmq.direct.PullReceiver" />
+      <module name="basic_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuzx.rabbitmq.direct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.wuzx.rabbitmq.pubsub.ReceiveLogsDirect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuzx.rabbitmq.pubsub.ReceiveLogsDirect" />
+      <module name="basic_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuzx.rabbitmq.pubsub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="basic_demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="basic_demo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitMQApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuzx.springboot.RabbitMQApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RabbitMQ" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuzx.rabbitmq.RabbitMqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SCApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudstream_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuzx.rabbitmq.SCApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuzx.springboot_demo.SpringbootDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudstreamDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudstream_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuzx.springcloudstream_demo.SpringcloudstreamDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sender" />
+        <item itemvalue="Application.com.wuzx.rabbitmq.pubsub.ReceiveLogsDirect" />
+        <item itemvalue="Application.com.wuzx.rabbitmq.direct.PullReceiver" />
+        <item itemvalue="Application.EmitLogDirect" />
+        <item itemvalue="Application.ReceiveLogsDirect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f6b0852-c1cb-454f-9739-ad9cba14e050" name="Changes" comment="" />
+      <created>1658028900206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658028900206</updated>
+      <workItem from="1658028901692" duration="7227000" />
+      <workItem from="1658064118248" duration="956000" />
+      <workItem from="1658065164310" duration="1226000" />
+      <workItem from="1658066660626" duration="3411000" />
+      <workItem from="1658076952822" duration="124000" />
+      <workItem from="1658077112428" duration="1002000" />
+      <workItem from="1658078119528" duration="160000" />
+      <workItem from="1658078282813" duration="3165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
